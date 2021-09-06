@@ -30,3 +30,11 @@ body {
   text-decoration: none;
 }
 /* footer */
+.footer {
+  /* border: 1px solid blue; */
+  background-color: black;
+  color: white;
+}
+.footer p {
+  /* border: 1px solid blue; */
+}
